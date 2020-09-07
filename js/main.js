@@ -24,7 +24,7 @@ htmlBuilder +=
 	'<h2>Teams:</h2>' +
 	'<table border=1>' +
 	'<tr>' +
-	'<th>Teams</th>' +
+	'<th>Team</th>' +
 	'<th>Wins</th>' +
 	'<th>Losses</th>' +
 	'</tr>';
